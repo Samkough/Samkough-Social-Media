@@ -1,0 +1,23 @@
+{
+  "name": "samkough-social-media",
+  "version": "1.0.0",
+  "description": "sammy samkough's social media feeds",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Samkough/Samkough-Social-Media.git"
+  },
+  "author": "Sammy Samkough",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Samkough/Samkough-Social-Media/issues"
+  },
+  "homepage": "https://github.com/Samkough/Samkough-Social-Media#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
